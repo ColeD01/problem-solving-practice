@@ -23,7 +23,7 @@ function word(arr, char) {
     }
     return wordArr
 }
-console.log(word(randoArr, "%"))
+console.log(word(randoArr, "!"))
 // divisble by function
 
 function divisibleFunc(num1, num2) {
